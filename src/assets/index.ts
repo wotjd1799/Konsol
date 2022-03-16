@@ -1,0 +1,1 @@
+export { default as writeIcon } from "./writeIcon.svg";
